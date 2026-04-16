@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": "df59d9fc-9a32-47ff-ae27-c813f2e2e6ae",
+      "name": "m fAIZAN",
+      "email": "faizanhassan47@gmail.com",
+      "passwordHash": "$2a$10$B/Bd1yMGT7O0KIxmSUBB1eKihlXM75AQlsaC5j8/43K0hZUR5suNu",
+      "role": "creator",
+      "createdAt": "2026-04-11T04:22:54.620Z"
+    },
+    {
+      "id": "90faa403-8697-4001-9636-3bda50266d17",
+      "name": "M Faizan",
+      "email": "wordpress.dev@gms-world.com",
+      "passwordHash": "$2a$10$PLmEn5fVSjnAPe/G6BRd7egZbDLZZqfVy.lMgzwReIeDJDZOmyyy6",
+      "role": "consumer",
+      "createdAt": "2026-04-13T04:39:05.427Z"
+    }
+  ],
+  "photos": [
+    {
+      "id": "5e7bde6f-281e-4ffe-9340-e7cf22f51161",
+      "title": "sebastian-svenson-d2w-_1LJioQ-unsplash",
+      "caption": "",
+      "location": "Pakistan",
+      "eventName": "2026",
+      "tags": [
+        "Wallpaper"
+      ],
+      "imageUrl": "/uploads/1775882208677-6036b6c5-2e34-434c-9b19-4af7e3dad21e.jpg",
+      "uploadedBy": "df59d9fc-9a32-47ff-ae27-c813f2e2e6ae",
+      "createdAt": "2026-04-11T04:36:48.766Z"
+    },
+    {
+      "id": "711a4d1e-7cff-47f7-ab36-b506fe062912",
+      "title": "andre-benz-qi2hmCwlhcE-unsplash",
+      "caption": "",
+      "location": "Pakistan",
+      "eventName": "2026",
+      "tags": [
+        "Wallpaper"
+      ],
+      "imageUrl": "/uploads/1775882208888-c15be916-4ec7-45f2-9af9-7a7c005229c9.jpg",
+      "uploadedBy": "df59d9fc-9a32-47ff-ae27-c813f2e2e6ae",
+      "createdAt": "2026-04-11T04:36:48.940Z"
+    },
+    {
+      "id": "b1995952-2611-4f04-8952-776dd8bedbaf",
+      "title": "emmanuel-denier-YiXsjwJKXmo-unsplash",
+      "caption": "",
+      "location": "Pakistan",
+      "eventName": "2026",
+      "tags": [
+        "Wallpaper"
+      ],
+      "imageUrl": "/uploads/1775882208956-a565d123-2cf8-4e37-b5f5-1a08ce493dd5.jpg",
+      "uploadedBy": "df59d9fc-9a32-47ff-ae27-c813f2e2e6ae",
+      "createdAt": "2026-04-11T04:36:48.980Z"
+    },
+    {
+      "id": "23495ad3-4a56-42be-9ba9-bfc1cfc309b7",
+      "title": "tim-mossholder-tq8Cuap8_wY-unsplash",
+      "caption": "",
+      "location": "Pakistan",
+      "eventName": "2026",
+      "tags": [
+        "Wallpaper"
+      ],
+      "imageUrl": "/uploads/1775882210150-85cdf534-0a58-4831-b1f9-04399cf748f3.jpg",
+      "uploadedBy": "df59d9fc-9a32-47ff-ae27-c813f2e2e6ae",
+      "createdAt": "2026-04-11T04:36:50.259Z"
+    },
+    {
+      "id": "ce2e8240-47c1-4571-95bc-d5d9b4e59862",
+      "title": "bradley-pelish-NPivaRqGFWw-unsplash",
+      "caption": "",
+      "location": "Pakistan",
+      "eventName": "2026",
+      "tags": [
+        "Wallpaper"
+      ],
+      "imageUrl": "/uploads/1775882210283-1ff5dbc6-1d6d-47c2-ac05-08c3d08409c5.jpg",
+      "uploadedBy": "df59d9fc-9a32-47ff-ae27-c813f2e2e6ae",
+      "createdAt": "2026-04-11T04:36:50.291Z"
+    }
+  ],
+  "comments": [],
+  "ratings": []
+}
